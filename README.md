@@ -28,8 +28,8 @@ Agents communicate through a central orchestrator and shared memory.
 
 ---
 
-## System Architecture
-# Content Agent → Analytics Agent → Scheduler Agent → Email Agent
+# System Architecture
+## Content Agent → Analytics Agent → Scheduler Agent → Email Agent
 
 Agents:
 
